@@ -3,10 +3,10 @@
     <h1>Component Page</h1>
 
     <router-link to="/" class="btn">
-      <button>Click to back home</button>
+      <button>Click to back Home</button>
     </router-link>
     <router-link to="/admin" class="btn">
-      <button>Click to admin</button>
+      <button>Click to Admin</button>
     </router-link>
   </div>
 </template>
