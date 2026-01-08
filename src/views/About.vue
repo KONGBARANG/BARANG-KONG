@@ -21,6 +21,7 @@ h1 {
 
 button {
   margin-top: 20px;
+  color: rgb(99, 117, 111);
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
