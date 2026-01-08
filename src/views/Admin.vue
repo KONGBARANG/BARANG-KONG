@@ -5,6 +5,6 @@
 </template>
 <style>
     h1 {
-        color: rgb(88, 55, 55);
+        color: rgb(156, 20, 20);
     }
 </style>
