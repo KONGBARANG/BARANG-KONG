@@ -2,6 +2,8 @@
   <div class="home">
     <h1>Page Home</h1>
 
+    <h2>Test Code By KBR</h2>
+
     <router-link to="/about">
       <button>Click to About</button>
     </router-link>
@@ -27,5 +29,8 @@ button {
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
+}
+h2 {
+  color: rgb(70, 110, 79);
 }
 </style>
