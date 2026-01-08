@@ -5,6 +5,9 @@
     <router-link to="/" class="btn">
       <button>Click to back home</button>
     </router-link>
+    <router-link to="/admin" class="btn">
+      <button>Click to admin</button>
+    </router-link>
   </div>
 </template>
 
