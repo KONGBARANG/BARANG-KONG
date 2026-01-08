@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>About Page</h1>
+    <h1>About Page loy</h1>
 
     <router-link to="/component">
       <button class="btn">Click to Component</button>
