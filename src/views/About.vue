@@ -15,7 +15,7 @@
 }
 
 h1 {
-  color: blue;
+  color: rgb(88, 88, 170);
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
