@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1><center>Admin Srey keo</center></h1>
+        <h1><center>Admin Page</center></h1>
     </div>
 </template>
 <style>
