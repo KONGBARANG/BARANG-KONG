@@ -5,6 +5,9 @@
     <router-link to="/about">
       <button>Click to About</button>
     </router-link>
+    <router-link to="/admin">
+      <button>Click to Admin</button>
+    </router-link>
   </div>
 </template>
 

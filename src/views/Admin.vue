@@ -2,6 +2,9 @@
     <div>
         <h1>Admin Page</h1>
     </div>
+    <router-link to="/home">
+      <button>Click to home</button>
+    </router-link>
 </template>
 <style>
     h1 {

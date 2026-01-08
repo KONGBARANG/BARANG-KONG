@@ -5,6 +5,9 @@
     <router-link to="/component">
       <button class="btn">Click to Component</button>
     </router-link>
+    <router-link to="/admin">
+      <button>Click to Admin</button>
+    </router-link>
   </div>
 </template>
 
