@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Admin love</h1>
+        <h1><center>Admin love pg b</center></h1>
     </div>
 </template>
 <style>
