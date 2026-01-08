@@ -30,11 +30,13 @@
 .nav-left {
   display: flex;
   gap: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 /* Right group */
 .nav-right {
   display: flex;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 /* Link */
