@@ -9,5 +9,6 @@
         justify-content: center;
         align-items: center;
         color: rgb(67, 20, 177);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
 </style>
