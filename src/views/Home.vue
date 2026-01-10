@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1>Page Home</h1>
+    <h1>Page Home nan cute men</h1>
 
     <h2>Test Code By KBR</h2>
 
